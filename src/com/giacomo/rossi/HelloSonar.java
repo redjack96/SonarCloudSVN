@@ -5,6 +5,7 @@ import java.util.logging.*;
 
 public class HelloSonar {
     public static void main(String[] args) {
+        int i;
         Logger logger = Logger.getLogger("Globale");
         logger.log(new LogRecord(Level.INFO, "Hello Sonar!"));
         myLogger();

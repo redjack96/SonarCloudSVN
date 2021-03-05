@@ -1,0 +1,1 @@
+sonar-scanner.bat -D"sonar.organization=redjack96" -D"sonar.projectKey=redjack96_SonarCloudSVN" -D"sonar.sources=." -D"sonar.host.url=https://sonarcloud.io"
